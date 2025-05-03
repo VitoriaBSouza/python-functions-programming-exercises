@@ -2,6 +2,5 @@ names = ['John', 'Kenny', 'Tom', 'Bob', 'Dilan']
 
 ## CREATE YOUR FUNCTION HERE
 
-def sort_names(var):
-    return sorted(var)
+
 print(sort_names(names))
